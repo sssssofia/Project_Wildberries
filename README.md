@@ -1,4 +1,5 @@
-![Иллюстрация к проекту](https://github.com/Project_Wildberries/blob/main/WB.jpg)
+
+<image src="https://github.com/sssssofia/Project_Wildberries/blob/main/WB.jpg" alt="Иллюстрация к проекту" width="900" height="400">
 
 # **Проект по Анализу Данных**
 ## Тема проекта: "Парсинг сайта "Wildberries", раздел "Книги по психологии".  Выполнили: Миропольская Анна Романовна и Савенкова Софья Дмитриевна, группа БЭК215
